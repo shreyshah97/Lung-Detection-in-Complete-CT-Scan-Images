@@ -10,9 +10,7 @@ This is how the initial dataset looked for a slice in the complete CT scan:
 
 Results after Training, The leftmost image is the image to be segmented, centre is the ground truth and rightmost image is the predicted result:
 
-![result1](https://github.com/shreyshah97/Lung-Detection-in-Complete-CT-Scan-Images/blob/master/Images/lung2.png)
-![result2](https://github.com/shreyshah97/Lung-Detection-in-Complete-CT-Scan-Images/blob/master/Images/lung3.png)
-![result3](https://github.com/shreyshah97/Lung-Detection-in-Complete-CT-Scan-Images/blob/master/Images/lung4.png)
+![result1](https://github.com/shreyshah97/Lung-Detection-in-Complete-CT-Scan-Images/blob/master/Images/lung2.png
 
 AUC:0.9972679259671106 was achieved when tested on subset9 after training the model on subset0 to subset6.
 
